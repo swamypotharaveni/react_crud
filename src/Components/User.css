@@ -1,0 +1,16 @@
+.role_admin {
+    color: white;
+    background-color: cadetblue;
+    border-radius: 20px;
+    font-size: 14px;
+    padding: 4px 17px;
+    font-weight: 80;
+    line-height: 22px;
+
+
+}
+
+.btn-success {
+    position: relative;
+    left: 46%;
+}

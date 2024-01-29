@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.Header{
+  width: 100%;
+  display: flex;
+  background-color: #1398bd;
+  padding: 15px;
+  text-align: left;
+  list-style: none;
+  list-style: armenian;
+  
+
+  
+}
+.Header a{
+  display: inline;
+  padding: 10px;
+  color: whitesmoke;
+  text-transform: capitalize;
+  text-decoration: none;
+
+  
+}
